@@ -824,3 +824,4 @@ var textStrings_TR = {
 };
 
 var textStrings = textStrings_EN
+var language = "EN"
